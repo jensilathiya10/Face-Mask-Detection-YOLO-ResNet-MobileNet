@@ -18,6 +18,3 @@ This project performs two types of face mask detection:
    - Detects and localizes faces in images/videos with bounding boxes and class labels.
    - Uses **YOLOv5** pretrained weights and fine-tunes on the dataset.
 
----
-
-## 📂 Repository Structure
